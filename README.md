@@ -31,10 +31,10 @@ function visitante() {
       <img width="30" src="icons8-sinal-de-e-mail-100.png">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="icons8-linkedin-circundado-100.png">
     </a>
     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="icons8-linkedin-circundado-100.png">
+      <img width="35" src="">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
       <img width="25" src="icons8-instagram-90.png">
