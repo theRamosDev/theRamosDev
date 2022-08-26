@@ -12,8 +12,8 @@ function visitante() {
 
 <div>
   
-  <img  align="left" width="350em" height="auto" src="https://github-readme-stats.vercel.app/api?username=theRamosDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="right" width="420em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRamosDev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img style="display:block"  align="left" width="350em" height="auto" src="https://github-readme-stats.vercel.app/api?username=theRamosDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img style="display:block" align="right" width="420em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRamosDev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
 
