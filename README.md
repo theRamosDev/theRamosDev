@@ -20,7 +20,7 @@ function visitante() {
 <div  align="center"> 
   <div style="display:block"><br>
     <img align="center" height="250" alt="coding-time" src="giphy.webp">
-    
+ <hr>   
 
     
   
