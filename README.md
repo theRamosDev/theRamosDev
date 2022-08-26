@@ -4,8 +4,8 @@
 
 <div>
   
-  <img  width="200em" height="auto" src="https://github-readme-stats.vercel.app/api?username=theRamosDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="top" width="280em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRamosDev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
+  <img  width="300em" height="auto" src="https://github-readme-stats.vercel.app/api?username=theRamosDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img align="top" width="380em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRamosDev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <br>
 
