@@ -28,7 +28,7 @@ function visitante() {
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="icons8-whatsapp-100.png">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">
