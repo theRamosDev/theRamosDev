@@ -34,7 +34,7 @@ function visitante() {
       <img width="25" src="icons8-linkedin-circundado-100.png">
     </a>
     <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="icons8-whatsapp-100.png">
+      <img width="30" src="icons8-whatsapp-100.png">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
       <img width="25" src="icons8-instagram-90.png">
