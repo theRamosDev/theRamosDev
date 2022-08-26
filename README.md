@@ -1,5 +1,5 @@
 <header>
-  <h1 align="center">## Desde 2022 `#0d1117` quebrando a cabeça no Front. ##</h1>
+  <h1 align="center">## Desde 2022 quebrando a cabeça no Front. ##</h1>
 </header>  
 
 
@@ -17,7 +17,7 @@ function visitante() {
 </div>
 <br>
 
-<div  align="center" margin-top="30px"> 
+<div  align="bottom"> 
   <div style="display:block"><br>
     <img align="center" height="250" alt="coding-time" src="giphy.webp">
     
