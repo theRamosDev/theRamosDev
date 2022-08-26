@@ -27,17 +27,17 @@ function visitante() {
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: vagnerramosofic@gmail.com">
       <img width="30" src="icons8-sinal-de-e-mail-100.png">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "#">
       <img width="25" src="icons8-linkedin-circundado-100.png">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="30" src="icons8-whatsapp-100.png">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
+    <a href = "#">
       <img width="25" src="icons8-instagram-90.png">
+    </a>
+    <a href = "https://wa.me/5555984250248?text=Olá!%20Eu%20venho%20do%20seu%20Github.">
+      <img width="30" src="icons8-whatsapp-100.png">
     </a>
 </div>
   
