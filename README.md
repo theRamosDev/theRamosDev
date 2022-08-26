@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<div  align="center"> 
+<div  align="center" margin-top="30px"> 
   <div style="display:block"><br>
     <img align="center" height="250" alt="coding-time" src="giphy.webp">
     
