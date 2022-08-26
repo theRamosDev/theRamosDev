@@ -2,13 +2,13 @@
   <h1 align="center">## Desde 2022 quebrando a cabeça no Front. ##</h1>
 </header>  
 
-<div>
+
   ```
 function test() {
   console.log("notice the blank line before this function?");
 }
 ```
-</div>
+
 
 <div>
   
