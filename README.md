@@ -19,7 +19,7 @@ function visitante() {
 
 
 
-    
+  <br>  
   <img align="center" height="250" alt="coding-time" src="giphy.webp">
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: vagnerramosofic@gmail.com">
