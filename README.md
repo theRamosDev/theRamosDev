@@ -4,9 +4,12 @@
 
 
   ```
-function visitante() {
-  console.log("Seja bem vindo!");
+function visitante () {
+  return 'seja bem vindo(a)!'
 }
+
+console.log(visitante());
+
 ```
 
 
@@ -17,7 +20,7 @@ function visitante() {
 </div>
 
 
-
+##
 
   <br>  
   <img align="center" height="250" alt="coding-time" src="giphy.webp">
