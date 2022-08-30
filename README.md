@@ -15,8 +15,7 @@ console.log(visitante())
   <img align="right" width="420em" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theRamosDev&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 
-<br>  
-<br>  
+## .....................................................................
   
   <div align="center">
   <img align="center" height="250" alt="coding-time" src="giphy.webp">
