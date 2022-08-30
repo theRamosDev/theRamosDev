@@ -18,7 +18,7 @@ function visitante() {
 
 
 <div  align="center"> 
- 
+  <div style="display:block">
     <br>
     <h1>...........................................</h1>
     <img align="center" height="250" alt="coding-time" src="giphy.webp">
