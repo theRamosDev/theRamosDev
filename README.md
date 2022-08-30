@@ -17,15 +17,10 @@ function visitante() {
 </div>
 
 
-<div  align="center"> 
-  <div style="display:block">
-    <br>
-    <h1>...........................................</h1>
-    <img align="center" height="250" alt="coding-time" src="giphy.webp">
-      <hr>   
+
 
     
-  
+  <img align="center" height="250" alt="coding-time" src="giphy.webp">
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: vagnerramosofic@gmail.com">
       <img width="30" src="icons8-sinal-de-e-mail-100.png">
