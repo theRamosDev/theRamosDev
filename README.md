@@ -11,8 +11,6 @@ function visitante () {
 console.log(visitante());
 
 ```
-
-
 <div>
   
   <img align="left" width="350em" height="auto" src="https://github-readme-stats.vercel.app/api?username=theRamosDev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -20,9 +18,10 @@ console.log(visitante());
 </div>
 
 
-##
+
 
   <br>  
+  <div>
   <img align="center" height="250" alt="coding-time" src="giphy.webp">
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: vagnerramosofic@gmail.com">
