@@ -8,8 +8,7 @@ function visitante () {
   return 'seja bem vindo(a)!'
 }
 
-console.log(visitante());
-
+console.log(visitante())
 ```
 <div>
   
@@ -21,7 +20,8 @@ console.log(visitante());
 
 
   <br>  
-  <div>
+  
+  <div align="center">
   <img align="center" height="250" alt="coding-time" src="giphy.webp">
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: vagnerramosofic@gmail.com">
